@@ -4,7 +4,7 @@
   <p align="center">
   <img src="https://img.shields.io/badge/tech-front--end-brightgreen" />
 
-  <a href="https://github.com/Rocketseat">
+  <a href="https://www.digitalhouse.com/br/">
     <img src="https://img.shields.io/badge/source-DigitalHouse-red" />
   </a>
   </p>
